@@ -1,7 +1,7 @@
 {
   "name": "ui-009-music-player",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://hazdviel.github.io/react-music-player/",
   "dependencies": {
     "classnames": "^2.2.5",
     "normalize.css": "^7.0.0",
