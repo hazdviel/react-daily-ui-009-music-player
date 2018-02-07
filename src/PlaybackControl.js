@@ -19,7 +19,7 @@ class PlaybackControl extends Component {
     const currentTimeFormatted = Math.floor(currentTime / 60) + ':' + Math.floor(currentTime % 60)
     const durationFormatted = Math.floor(duration / 60) + ':' + Math.floor(duration % 60)
     const progress = (currentTime / duration) * 100
-    console.log(progress)
+    //console.log(progress)
 
     return (
       <div className="playback-control">
